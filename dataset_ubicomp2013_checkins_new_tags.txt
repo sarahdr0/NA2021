@@ -1,4 +1,3 @@
-userid	venue_id
 u35443	v899
 u24973	v42406
 u14860	v177
